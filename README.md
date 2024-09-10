@@ -78,9 +78,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="600" src="https://backiee.com/static/wallpapers/1000x563/396529.jpg"  />
+  <img  src="https://backiee.com/static/wallpapers/1000x563/396529.jpg"  />
 </div>
 
 ###
-message.txt
-5 KB
