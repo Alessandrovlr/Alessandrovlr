@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">• Olá, meu nome é Alessandro!<br><br> • Estudo Análise e Desenvolvimento de Sistemas.<br><br> • Estou em Busca de novas experiencias e um trabalho.<br><br> • Tenho 20 anos atualmente moro no Brasil, amo a programação, jogar e gatos!</p>
+<p align="left">• Olá, meu nome é Alessandro!<br><br> • Estudo Análise e Desenvolvimento de Sistemas.<br><br> • Estou em Busca de novas experiencias e um trabalho.<br><br> • Tenho 21 anos atualmente moro no Brasil, amo a programação, jogar e gatos!</p>
 
 ###
 
